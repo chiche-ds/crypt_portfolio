@@ -21,9 +21,9 @@
 
 The Crypto Portfolio Tracker is designed to help investors track and manage their cryptocurrency investments. As new cryptocurrency projects are continuously emerging, investors need a reliable system to monitor their investments, track real-time market prices, and evaluate their portfolio's performance. This application aims to provide a clear, user-friendly interface for managing cryptocurrency assets, tracking gains and losses, and making informed investment decisions.
 
-1. # <a name="_lnqg144fvfpe"></a>Requirements
+2. # <a name="_lnqg144fvfpe"></a>Requirements
 
-1. # <a name="_3i80acl2881h"></a>Functional Requirements
+2.1. # <a name="_3i80acl2881h"></a>Functional Requirements
 
 Functional requirements specify what the system should do. They define the core functionalities that the Crypto Portfolio Tracker must perform:
 
@@ -41,7 +41,7 @@ Functional requirements specify what the system should do. They define the core 
   - The system must calculate and display the profit or loss for each cryptocurrency based on the purchase price and the current market price.
   - Users must be able to view a summary of overall profit and loss for their entire portfolio.
 
-1. ## <a name="_m2snfladm1le"></a>Non-Functional Requirements
+2.2. ## <a name="_m2snfladm1le"></a>Non-Functional Requirements
 
 Non-functional requirements describe how the system performs certain operations and qualities the system should have:
 
@@ -63,43 +63,43 @@ Non-functional requirements describe how the system performs certain operations 
 - Maintainability:
   - The system should be designed to allow easy updates and maintenance without significant downtime.
 
-1. ## <a name="_ilrvgtacn8pv"></a><a name="_4wlz5umg9fqs"></a><a name="_okse3dll8d26"></a>Use Case Diagram
+3. ## <a name="_ilrvgtacn8pv"></a><a name="_4wlz5umg9fqs"></a><a name="_okse3dll8d26"></a>Use Case Diagram
 
 The use case diagram illustrates the interactions available to users of the Crypto Portfolio Tracker. It identifies all the actions a typical user can perform, providing a clear scope of the system's functionality.
 
 ![use case diagram](Aspose.Words.038b36f8-c52b-468a-acd5-0291993f6ca9.002.png)
 
-1. ## <a name="_82w3gaoisfmb"></a>Component Diagram
+4. ## <a name="_82w3gaoisfmb"></a>Component Diagram
 
 The component diagram provides an overview of the main components within the application, detailing how the user interface, API layer, and database interact. This diagram is essential for understanding the modular structure of the system and its interdependencies.
 
 ![Component diagram](Aspose.Words.038b36f8-c52b-468a-acd5-0291993f6ca9.003.png)
 
-1. ## <a name="_f8a8vkdcb2rn"></a>Database Schema
+5. ## <a name="_f8a8vkdcb2rn"></a>Database Schema
 
 The database schema diagram provides a detailed view of the data structure. It outlines the tables, their fields, and the relationships between them, essential for building and maintaining the database.
 
 ![Database schema](Aspose.Words.038b36f8-c52b-468a-acd5-0291993f6ca9.004.png)
 
-1. ## <a name="_tcd8qutz9fyd"></a>Sequence Diagram
+6. ## <a name="_tcd8qutz9fyd"></a>Sequence Diagram
 
 The sequence diagram details the interactions for a user adding a cryptocurrency to their portfolio.
 
 ![Sequence Diagram](Aspose.Words.038b36f8-c52b-468a-acd5-0291993f6ca9.005.png)
 
-1. ## <a name="_xxk6qwf25use"></a>Class Diagram
+7. ## <a name="_xxk6qwf25use"></a>Class Diagram
 
 The class diagram will depict the structure of the application's models.
 
 ![Class Diagram](Aspose.Words.038b36f8-c52b-468a-acd5-0291993f6ca9.006.png)
 
-1. ## <a name="_fht2yyua9hcb"></a>Object Diagram
+8. ## <a name="_fht2yyua9hcb"></a>Object Diagram
 
 The object diagram will provide a snapshot of the instance relationships at a particular moment, focusing on the system's runtime state.
 
 ![object diagram](Aspose.Words.038b36f8-c52b-468a-acd5-0291993f6ca9.007.png)
 
-1. ## <a name="_2y68gmktvd0g"></a>Implementation Steps
+9. ## <a name="_2y68gmktvd0g"></a>Implementation Steps
 
 The development process will be broken down into sequential phases to ensure clarity and manageability. Here’s how we can proceed:
 
@@ -138,7 +138,7 @@ The development process will be broken down into sequential phases to ensure cla
   - Regularly update the application dependencies and platform.
   - Monitor the application’s performance and make adjustments as necessary.
 
-1. ## <a name="_e3mog1fifjym"></a>Project Milestones
+10. ## <a name="_e3mog1fifjym"></a>Project Milestones
 
 - Milestone 1: Project Setup and Planning (Day 1)
   - Tasks:
@@ -180,6 +180,6 @@ The development process will be broken down into sequential phases to ensure cla
     - Deployed application accessible to users.
     - Roles and Responsibilities
 
-1. ## <a name="_24n5fh3nslj1"></a>Cost
+11. ## <a name="_24n5fh3nslj1"></a>Cost
 
 The cost for the development of this project is mostly the time we as a team are going to dedicate to see that it's successful apart from that we will need to host the application on a server online which from my prediction can cost us at most $15
